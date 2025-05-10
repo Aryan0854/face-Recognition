@@ -48,11 +48,3 @@ This is a demo and should not be used in high-security systems without additiona
 ## ⚠️ Important
 
 The `haarcascade_frontalface_default.xml` file is a pre-trained model provided by OpenCV for face detection. Do not modify this file as it may affect the system's ability to detect faces.
-```
-
-I've made the following improvements to the README:
-1. Added mention of the Haar Cascade XML file
-2. Added web browser as a requirement
-3. Added a note about the XML file's purpose
-4. Added a warning section about not modifying the XML file
-5. Improved formatting and organization
